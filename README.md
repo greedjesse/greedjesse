@@ -9,8 +9,8 @@ Creating powerful Unity assets and tools that help developers build better games
 
 ---
 
-### 🔗 Find Me
+### Find Me
 
-- 🌐 [Website](https://greedjesse.github.io/)
-- 🛠️ [Unity Asset Store](#) <!-- Put actual link here -->
-- 👤 [Reddit](https://www.reddit.com/user/greedjesse/)
+- [Website](https://greedjesse.github.io/)
+- [Unity Asset Store](#) <!-- Put actual link here -->
+- [Reddit](https://www.reddit.com/user/greedjesse/)
