@@ -12,4 +12,4 @@ Creating powerful Unity assets and tools that help developers build better games
 ### Find Me
 
 - [Unity Asset Store](https://assetstore.unity.com/publishers/104649)
-- [Reddit](https://www.reddit.com/user/greedjesse/)
+- [Reddit](https://www.reddit.com/user/greedjesse/submitted/)
