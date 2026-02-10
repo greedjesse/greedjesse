@@ -11,7 +11,7 @@ Creating powerful Unity assets and tools that help developers build better games
 
 ### Find Me
 
+- Gmail: greed.jesse.business@gmail.com
+- - Discord: greedjesse
 - [Unity Asset Store](https://assetstore.unity.com/publishers/104649)
 - [Reddit](https://www.reddit.com/user/greedjesse/submitted/)
-- Discord: greedjesse
-- Gmail: greed.jesse.business@gmail.com
